@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Bruno Gazola de Paoli
+### Buscando oportunidades de trabalho!!!
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando ReactJS
